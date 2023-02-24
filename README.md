@@ -1,5 +1,5 @@
 <p align="center">
-<h1> only Data here lol </h1>
+<h2> Only data in here lol </h2>
 <a href="https://discord.gg/exfdev">Discord</a>
 
  
